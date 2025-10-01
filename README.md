@@ -31,22 +31,215 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%201.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello my name is
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%202.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%203.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello my name is
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%204.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%205.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%206.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%207.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%208.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%209.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2010.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2011.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2012.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2013.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2014.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2015.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2016.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2017.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2018.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2019.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2020.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2021.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2022.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2023.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2024.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2025.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2026.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
+</p>
+<br />
+
+<p>
+<img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2027.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hello my name is
 </p>
 <br />
