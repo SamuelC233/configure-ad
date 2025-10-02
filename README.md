@@ -31,7 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%201.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Here are two virtual machines I created before the lab starts. The machine running windows server 2022 (dc-1) will be our primary focus point.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%202.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Start up Remote Desktop Connection and Enter the public IP address of dc-1.
 </p>
 <br />
 
@@ -48,7 +48,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%203.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Enter the credentials for your virtual machine, press ok.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%204.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+From the Server Manager dashboard, click “Add Roles and Features” to begin the setup wizard.
 </p>
 <br />
 
@@ -64,7 +64,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%205.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Click Next to continue.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%206.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Click Next once more to continue.
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%207.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Verify that the domain controller (dc-1) appears in the list.
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%208.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Enable “Active Directory Domain Services” by selecting the checkbox.
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%209.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Select “Add Features,” and proceed by clicking Next.
 </p>
 <br />
 
@@ -104,7 +104,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2010.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Click Next on each screen until you arrive at the “Confirmation” step.
 </p>
 <br />
 
@@ -112,7 +112,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2011.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Select “Restart the destination server automatically if required,” and click “Install” to begin the installation.
 </p>
 <br />
 
@@ -120,7 +120,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2012.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+On the Server Manager Dashboard, click the flag in the upper-right corner, followed by “Promote this server to a domain controller.”
 </p>
 <br />
 
@@ -128,7 +128,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2013.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Select “Add a new forest,” type “mydomain.com” for the Root domain name, and click Next.
 </p>
 <br />
 
@@ -136,7 +136,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2014.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Create a password, then re-enter it to confirm.
 </p>
 <br />
 
@@ -144,7 +144,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2015.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Uncheck “Create DNS delegation,” and continue clicking Next until the Prerequisites Check appears.
 </p>
 <br />
 
@@ -152,7 +152,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2016.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Click “Install.” By creating the forest, this computer (dc-1) will now be recognized as a domain controller. Once the computer restarts, you will need to log in using a domain user account, as all users are now part of the domain (mydomain.com).
 </p>
 <br />
 
@@ -160,7 +160,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2017.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Since my username (labuser) is part of the domain (mydomain.com), you need to specify the domain name as shown in the picture above.
 </p>
 <br />
 
@@ -168,7 +168,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2018.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+After logging in, click Start, open “Windows Administrative Tools,” and then select “Active Directory Users and Computers.”
 </p>
 <br />
 
@@ -176,7 +176,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2019.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Right-click “mydomain.com,” move your cursor over “New,” and select “Organizational Unit” from the submenu.
 </p>
 <br />
 
@@ -184,7 +184,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2020.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Two Organizational Units (OUs) will be created to help maintain an organized structure within Active Directory. The first OU is named _EMPLOYEES, and the second is _ADMINS. After creating the first Organizational Unit, click OK and repeat the procedure to create the second. Once both OUs have been created, right-click mydomain.com and select Refresh to update the directory view.
 </p>
 <br />
 
@@ -192,7 +192,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2021.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Next, click on _ADMINS, right-click within the right pane, hover over New, and choose User from the menu.
 </p>
 <br />
 
@@ -200,7 +200,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2022.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Fill in the user’s details and specify the User logon name, then click Next to proceed.
 </p>
 <br />
 
@@ -208,7 +208,9 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2023.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Create a password, and for lab purposes only, select “Password never expires.” Click Next, then click Finish.
+
+Now that Jane Doe has been added to the _ADMINS Organizational Unit, she must be added to the Domain Admins group to grant her administrative privileges on the domain.
 </p>
 <br />
 
@@ -216,7 +218,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2024.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Right-click on Jane Doe and choose Properties.
 </p>
 <br />
 
@@ -224,7 +226,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2025.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Click the Members Of tab, then click Add.
 </p>
 <br />
 
@@ -232,7 +234,7 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2026.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Type “Domain Admins” in the field and click Check Names to verify. Once confirmed, click OK, then Apply, and finally OK. After completing these steps, log out of the session.
 </p>
 <br />
 
@@ -240,6 +242,6 @@ Hello my name is
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%2027.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello my name is
+Log back into dc-1 using the newly created admin account. Be sure to enter the username in the following format: mydomain.com\username.
 </p>
 <br />
