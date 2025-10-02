@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Deployment in Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -22,8 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Install Active Directory
 - Create a Domain Admin User within the domain
-- Step 3
-- Step 4
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -31,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%201.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here are two virtual machines I created before the lab starts. The machine running windows server 2022 (dc-1) will be our primary focus point.
+Before starting the lab, I created two virtual machines. Our primary focus will be on the one running Windows Server 2022, named dc-1.
 </p>
 <br />
 
@@ -40,7 +39,7 @@ Here are two virtual machines I created before the lab starts. The machine runni
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%202.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Start up Remote Desktop Connection and Enter the public IP address of dc-1.
+Open Remote Desktop Connection and enter the public IP address of dc-1.
 </p>
 <br />
 
@@ -48,7 +47,7 @@ Start up Remote Desktop Connection and Enter the public IP address of dc-1.
 <img src="https://github.com/SamuelC233/configure-ad/blob/main/Screenshot%203.jpg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Enter the credentials for your virtual machine, press ok.
+Enter the credentials for your virtual machine, then click OK.
 </p>
 <br />
 
